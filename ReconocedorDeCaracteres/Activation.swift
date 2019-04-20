@@ -1,10 +1,5 @@
 //
 //  Activation.swift
-//  DeepNeuralNetworkDemo
-//
-//  Created by Jeremi Kaczmarczyk on 27/09/2017.
-//  Copyright © 2017 Jeremi Kaczmarczyk. All rights reserved.
-//
 
 import Foundation
 import Matswift
