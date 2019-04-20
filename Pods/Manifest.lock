@@ -1,0 +1,16 @@
+PODS:
+  - Matswift (0.1.2)
+
+DEPENDENCIES:
+  - Matswift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Matswift
+
+SPEC CHECKSUMS:
+  Matswift: c13fe22e7bdc2a6d5803f8d7d2755fd0574e2fc6
+
+PODFILE CHECKSUM: b28e80a04efa81e15e3bd9d20dcdba2dd4f8dd2b
+
+COCOAPODS: 1.6.1
